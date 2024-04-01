@@ -20,7 +20,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 | [IBM Business Automation Workflow](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/Workflow) | 2 | CP4BA Credentials |      5-6 hours       | [Badge](https://www.credly.com/org/ibm/badge/ibm-business-automation-workflow-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=9354) | [#ba-dl-tech-jam-workflow](link-tbd) | [BAW Survey](https://www.surveymonkey.com/r/ba-dl-tech-jam-baw) |
 | [IBM Automation Document Processing](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/Document%20Processing) | 2 | Lab Provided | 3-4 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-automation-document-processing-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=12413) |[#ba-dl-tech-jam-adp](link-tbd) |[ADP Survey]( https://www.surveymonkey.com/r/ba-dl-tech-jam-adp) |
 | [IBM watsonx Orchestrate](https://github.com/IBM/cp4ba-labs/tree/main/23.0.1/watsonx%20Orchestrate) | 2 | watsonx Orchestrate Environment **and** CP4BA Credentials | 2-3 hours | - |[#ba-dl-tech-jam-wxo](https://ibm-cloudpak-partners.slack.com/archives/C05VA4Z330D) |[wxO Survey]( https://www.surveymonkey.com/r/ba-dl-tech-jam-wxo) |
-| [IBM CP4BA - Bring-up Lab](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-installation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) | [#ba-dl-tech-jam-bring-up](link-tbd) | [Bring-up Survey](https://www.surveymonkey.com/r/ba-dl-tech-jam-bring-up) |
+| [IBM CP4BA - Bring-up Lab](https://github.com/IBM/cp4ba-labs/tree/main/21.0.3/Bring-up) | 3 | Lab Provided | 8 hours | [Badge](https://www.credly.com/org/ibm/badge/ibm-cloud-pak-for-business-automation-installation-tech-jam) \| [Quiz](https://learn.ibm.com/course/view.php?id=11286) | [#ba-dl-tech-jam-bring-up](link-tbd) | [Bring-up Survey](https://www.surveymonkey.com/r/ba-dl-tech-jam-bring-up) |
 
 
 ## Login Credentials
@@ -41,7 +41,7 @@ pull down the line to replace from above, replace with line from below
 
 Most labs require you to **access one or more System URLs** set up specifically for the Jam. You first need get your Login Credentials (see above) and then **access the System URLs using the links below**. 
 
-Issues accessing the System URLs? Use Slack Channel **[[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH)**.
+Issues accessing the System URLs? Use Slack Channel **[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH)**.
 
 <!--
 These instructions will get updated at the end of the introduction session, you'll then find the System URLs here.
