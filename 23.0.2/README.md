@@ -1,4 +1,4 @@
-# IBM Cloud Pak for Business Automation 22.0.2 Labs
+# IBM Cloud Pak for Business Automation 23.0.2 Labs
 
 To be able to perform these labs, you need to have IBM Cloud Pak for Business Automation (either Enterprise or Starter pattern) installed and have imported the Client Onboarding scenario as described [here](https://github.com/IBM/cp4ba-client-onboarding-scenario).
 
