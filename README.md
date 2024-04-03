@@ -13,7 +13,7 @@ The **Agenda** is available **[here](/Agenda/%5BBA%26DL%20Tech%20Jam%202024.04.0
 
 You can access the **labs**, **system URLs**, **login instructions** and **badges** **[here](/Labs.md)**. You can select the capability you are interested to learn more about on that page.
 
-If you missed the introductory session and do not know how to get started, please review the **[How to Get Started with CP4BA Tech Jam](/Agenda/How%20to%20Get%20Started%20with%20CP4BA%20Tech%20Jam.pdf)** presentation.
+If you missed the introductory session and do not know how to get started, please review the **[How to Get Started with BA&DL Tech Jam](/Agenda/How%20to%20Get%20Started%20with%20CP4BA%20Tech%20Jam.pdf)** presentation.
 
 ## Presentations and Recordings
 
