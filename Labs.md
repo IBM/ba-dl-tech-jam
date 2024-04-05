@@ -48,7 +48,7 @@ These instructions will get updated at the end of the introduction session, you'
 -->
 
 [Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
-[Local Mail Client]()
+[Local Mail Client]()  
 [IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)  
 [IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/bai-bpc/)  
 [IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/cpe/acce/)  
