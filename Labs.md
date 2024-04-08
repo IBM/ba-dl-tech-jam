@@ -56,6 +56,7 @@ These instructions will get updated at the end of the introduction session, you'
 [ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
 [IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=workplace)  
 [IBM watsonx Orchestrate](https://dl.watson-orchestrate.ibm.com/)  
+[IBM Process Mining](https://cpd-ibm-cp4ba-process-mining.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/processmining/index.html#/)
 
 <!--
 |APAC|EMEA|Americas|
