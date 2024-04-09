@@ -27,16 +27,16 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 |Name       |Instructions| 
 | ------- | ------- |
-<!--
-| CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-ibm-usrmgmt.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement/)**.  Use same email provided during the TechJam registration. |
--->
-| CP4BA Credentials| Find your unique credentials after the Introduction session here. |
+| CP4BA Credentials| These instructions will get updated at the end of the Introduction session, you'll then find the link to get your credentials here. |
 | watsonx Orchestrate Environment| Use your IBM ID.  You must register to the lab at the **[#ba-dl-tech-jam-wxo](https://ibm.enterprise.slack.com/archives/C06S46MKBM4)** Slack channel before accessing the environment.|
 | Lab Provided | Lab guide will provide instructions on how to get credentials. |
 
 <!--
 pull down the line to replace from above, replace with line from below
+
 | CP4BA Credentials| These instructions will get updated at the end of the introduction session, you'll then find the link to get your ID here. |
+
+| CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-ibm-usrmgmt.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement/)**.  Use same email provided during the TechJam registration. |
 
 -->
 
