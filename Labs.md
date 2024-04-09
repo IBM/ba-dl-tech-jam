@@ -34,7 +34,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 <!--
 pull down the line to replace from above, replace with line from below
 
-| CP4BA Credentials| These instructions will get updated at the end of the introduction session, you'll then find the link to get your ID here. |
+| CP4BA Credentials| These instructions will get updated at the end of the Introduction session, you'll then find the link to get your credentials here. |
 
 | CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-ibm-usrmgmt.tech-jam-amer-02-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement/)**.  Use same email provided during the TechJam registration. |
 
