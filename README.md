@@ -2,7 +2,7 @@
 
 Hello and Welcome to the **April 2024 edition - EMEA** of the IBM Business Automation & Digital Labor Tech Jam. 
 
-The **Agenda** is available **[here](/Agenda/[BA&DL Tech Jam 2023.10.16] EMEA Agenda.pdf)**
+The **Agenda** is available **[here](/Agenda/%5BBA%26DL%20Tech%20Jam%202024.04.16%5D%20EMEA%20Agenda.pdf)**
 
 <!--
 | [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20EMEA%20Agenda.pdf) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
