@@ -27,7 +27,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 |Name       |Instructions| 
 | ------- | ------- |
-| CP4BA Credentials| https://jam-usermanagement-jam-usermgmt.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/UserManagement |
+| CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-jam-usermgmt.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/UserManagement)**.  Use same email provided during the TechJam registration. |
 | watsonx Orchestrate Environment| Use your IBM ID. |
 | Lab Provided | Lab guide will provide instructions on how to get credentials. |
 
