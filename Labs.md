@@ -27,7 +27,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 |Name       |Instructions| 
 | ------- | ------- |
-| CP4BA Credentials| These instructions will get updated at the end of the Introduction session, you'll then find the link to get your credentials here. |
+| CP4BA Credentials| https://jam-usermanagement-jam-usermgmt.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/UserManagement |
 | watsonx Orchestrate Environment| Use your IBM ID. |
 | Lab Provided | Lab guide will provide instructions on how to get credentials. |
 
