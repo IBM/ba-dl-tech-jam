@@ -1,6 +1,6 @@
 # IBM Business Automation & Digital Labor Tech Jam
 
-Hello and Welcome to the **April 2024 edition - APAC** of the IBM Business Automation & Digital Labor Tech Jam. 
+Hello and Welcome to the **September 2024 edition - EMEA** of the IBM Business Automation & Digital Labor Tech Jam. 
 
 The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/main/Agenda/%5BBA%26DL%20Tech%20Jam%202023.04.23%5D%20APAC%20Agenda.pdf)**
 
@@ -33,4 +33,4 @@ You can **access** the survey **[here](https://www.surveymonkey.com/r/BADLTechJa
 
 ![Survey QR Code](QR_code_BADLTechJam2024.png)
 
-**Enjoy our April 2024 Business Automation & Digital Labor Tech Jam!**
+**Enjoy our September 2024 Business Automation & Digital Labor Tech Jam!**
