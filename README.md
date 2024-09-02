@@ -17,11 +17,11 @@ If you missed the introductory session and do not know how to get started, pleas
 
 ## Presentations and Recordings
 
-A link to the **presentations and recordings** made during the Jam will be shared in the **[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH)** Slack channel.
+A link to the **presentations and recordings** made during the Jam will be shared in the **[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C07K52NV76X)** Slack channel.
 
 ## Support
 
-For any **general questions, comments and feedback** please go to the **[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C06RSMQ7WBH)** Slack channel.
+For any **general questions, comments and feedback** please go to the **[#ba-dl-tech-jam-main-lobby](https://ibm.enterprise.slack.com/archives/C07K52NV76X)** Slack channel.
 
 For **lab specific questions**, please use the **#ba-dl-tech-jam-\<capability\>** specific channels, you can also find the links to these channels **[here](/Labs.md)**.  
 
