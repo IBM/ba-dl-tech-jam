@@ -1,6 +1,6 @@
 # IBM Business Automation & Digital Labor Tech Jam
 
-Hello and Welcome to the **September 2024 edition - APAC** of the IBM Business Automation & Digital Labor Tech Jam. 
+Hello and Welcome to the **September 2024 edition - Americas** of the IBM Business Automation & Digital Labor Tech Jam. 
 
 The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/main/Agenda/%5BBA%26DL%20Tech%20Jam%202024.09.17%5D%20Americas%20Agenda.pdf)**
 
