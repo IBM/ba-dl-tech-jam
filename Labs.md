@@ -28,7 +28,7 @@ In case you have **questions or issues related to a speciffic capability lab**, 
 
 |Name       |Instructions| 
 | ------- | ------- |
-| CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-jam-usermgmt.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/UserManagement/)**.  Use same email provided during the TechJam registration. |
+| CP4BA Credentials| Retrieve your unique credentials from **[here](https://jam-usermanagement-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/UserManagement)**.  Use same email provided during the TechJam registration. |
 | watsonx Orchestrate Environment| Use your IBM ID. |
 | Lab Provided | Lab guide will provide instructions on how to get credentials. |
 
@@ -53,17 +53,17 @@ Issues accessing the System URLs? Use Slack Channel **[#ba-dl-tech-jam-main-lobb
 These instructions will get updated at the end of the introduction session, you'll then find the System URLs here.
 -->
 
-[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=ClientOnboarding)  
-[Local Mail Client](https://roundcubenginx-mail.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
-[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud)  
-[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/bai-bpc)  
-[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/cpe/acce)  
-[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/content-services-graphql/)  
-[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
-[IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator?desktop=workplace)  
+[Client Onboarding Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ClientOnboarding)  
+[Local Mail Client](https://roundcubenginx-mail.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)
+[IBM Business Automation Studio](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud)  
+[IBM Business Performance Center (BPC)](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/bai-bpc)  
+[IBM Content Platform Engine ACCE](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/cpe/acce)  
+[IBM Content Services GraphQL](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/content-services-graphql/)  
+[ICN Desktop](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=ICN)  
+[IBM Business Automation Workplace](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator?desktop=workplace)  
 [IBM watsonx Orchestrate](https://dl.watson-orchestrate.ibm.com/)  
-[IBM Process Mining](https://cpd-ibm-cp4ba-process-mining.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/processmining/index.html)  
-[Case Client](https://cpd-ibm-cp4ba.tech-jam-apac-01-464887bc828751e1b00625ca9211fbca-0000.jp-tok.containers.appdomain.cloud/icn/navigator/?desktop=baw)
+[IBM Process Mining](https://cpd-ibm-cp4ba-pm.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/processmining/index.html)  
+[Case Client](https://cpd-ibm-cp4ba.tech-jam-amer-01-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud/icn/navigator/?desktop=baw)
 
 <!--
 |APAC|EMEA|Americas|
