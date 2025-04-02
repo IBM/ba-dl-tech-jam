@@ -6,7 +6,7 @@ The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/
 
 ## Labs
 
-You can access the **labs**, **system URLs**, **login instructions** and **badges** **[here](/Labs.md)**. You can select the capability you are interested to learn more about on that page.
+You can access the **labs**, **system URLs**, **login instructions** and **badges** **[here](/Labs_wxo.md)**. You can select the capability you are interested to learn more about on that page.
 
 If you missed the introductory session and do not know how to get started, please review the **[How to Get Started with wxo Tech Jam](/Agenda/How%20to%20Get%20Started%20with%20BA%20%26%20DL%20Tech%20Jam.pdf)** presentation.
 
@@ -26,4 +26,4 @@ You can **access** the survey **[here](https://www.surveymonkey.com/r/BADLTechJa
 
 ![Survey QR Code](QR_code_BADLTechJam2024.png)
 
-**Enjoy our September 2024 Business Automation & Digital Labor Tech Jam!**
+**Enjoy our April 2025 watsonx Orchestrate Tech Jam!**
