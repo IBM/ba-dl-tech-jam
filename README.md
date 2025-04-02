@@ -2,12 +2,7 @@
 
 Hello and Welcome to the **April 2025 edition - EMEA** of the IBM watsonx Orchestrate Tech Jam. 
 
-The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/main/Agenda/%5BBA%26DL%20Tech%20Jam%202024.09.17%5D%20Americas%20Agenda.pdf)**
-
-<!--
-| [APAC Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20APAC%20Agenda.pdf) | [EMEA Agenda](/Agenda/%5BBA%26DL%20Tech%20Jam%202024.09.03%5D%20EMEA%20Agenda.pdf)) | [Americas Agenda](/Agenda/%5BCP4BA%20Tech%20Jam%202022.10.25%5D%20Americas%20Agenda.pdf) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
--->
+The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/main/Agenda/%5BBA%26DL%20wxO%20Tech%20Jam%202025.04.09%5D%20Agenda.pdf)**
 
 ## Labs
 
