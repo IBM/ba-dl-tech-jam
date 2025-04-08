@@ -21,6 +21,7 @@ You can access the **labs** **[here](/Labs_wxo.md)**. On that page you can learn
 **EMail Client URL**: https://roundcubenginx-mail.swat-dev-roks-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/?_task=mail&_mbox=INBOX
 
 **Back End Credentials** - Get them from the organisers at the desk
+
 **WLAN access** - You should have a mail from noreply-emea-IBMInternet@ibm.com, otherwise reach out to us
 
 ## Presentations and Recordings
