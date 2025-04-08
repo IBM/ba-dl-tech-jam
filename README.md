@@ -14,7 +14,7 @@ You can access the **labs** **[here](/Labs_wxo.md)**. On that page you can learn
 
 **Tech Jam GitHub URL**: https://github.com/IBM/ba-dl-tech-jam/
 
-**watsonx Orchestrate URL**: https://dl.watson-orchestrate.ibm.com
+**watsonx Orchestrate URL**: https://dl.watson-orchestrate.ibm.com (if you have access to multiple tenants, select tenant **TechJam2024**)
 
 **IT Accessory Hub Assistant URL**: https://ibm.biz/ITAccessoryHub
 
