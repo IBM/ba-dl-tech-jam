@@ -8,8 +8,6 @@ The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/
 
 You can access the **labs** **[here](/Labs_wxo.md)**. On that page you can learn more about the labs and select the one you are interested in.
 
-If you missed parts of the introductory session and do not know how to get started, please review the **[How to Get Started with wxo Tech Jam](/Agenda/How%20to%20Get%20Started%20with%20BA%20%26%20DL%20Tech%20Jam.pdf)** presentation.
-
 ## Presentations and Recordings
 
 A link to the **presentations and recordings** made during the Jam will be shared in the **[#wxo-tech-jam](https://ibm.enterprise.slack.com/archives/C08K4TKFHEE)** Slack channel.
