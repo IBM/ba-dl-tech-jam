@@ -8,6 +8,17 @@ The **Agenda** is available **[here](https://github.com/IBM/ba-dl-tech-jam/blob/
 
 You can access the **labs** **[here](/Labs_wxo.md)**. On that page you can learn more about the labs and select the one you are interested in.
 
+## Links & Credentials
+
+Slack channel: #wxo-tech-jam (https://ibm.enterprise.slack.com/archives/C08K4TKFHEE)
+Tech Jam GitHub URL: https://github.com/IBM/ba-dl-tech-jam/
+Watsonx Orchestrate URL: https://dl.watson-orchestrate.ibm.com
+IT Accessory Hub Assistant URL: https://ibm.biz/ITAccessoryHub
+EMail Client URL: https://roundcubenginx-mail.swat-dev-roks-01-464887bc828751e1b00625ca9211fbca-0000.eu-de.containers.appdomain.cloud/?_task=mail&_mbox=INBOX
+
+Back End Credentials - Get them from the organisers at the desk
+WLAN access - you should have a mail from noreply-emea-IBMInternet@ibm.com, otherwise reach out to us
+
 ## Presentations and Recordings
 
 A link to the **presentations and recordings** made during the Jam will be shared in the **[#wxo-tech-jam](https://ibm.enterprise.slack.com/archives/C08K4TKFHEE)** Slack channel.
