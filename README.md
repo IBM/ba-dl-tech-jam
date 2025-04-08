@@ -20,7 +20,7 @@ For any **general questions, comments and feedback** please go to the **[#wxo-te
 
 At the end of the Jam, please take 5 minutes to **complete the survey**. This will help us for future Jams as well as get feedback on the different capabilities.
 
-You can **access** the survey **[here](ibm.biz/wxo-tech-jam-survey)** or use the **QR code** below:
+You can **access** the survey **[here](https://ibm.biz/wxo-tech-jam-survey)** or use the **QR code** below:
 
 ![Survey QR Code](QR_code_wxoTechJamApril2025.png)
 
